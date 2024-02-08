@@ -1,7 +1,7 @@
 {
-	"id": "simple-rss",
-	"name": "Simple RSS",
-	"version": "0.3.12",
+	"id": "obsidian-simple-rss",
+	"name": "My RSS",
+	"version": "0.3.13",
 	"minAppVersion": "0.15.0",
 	"description": "Collect RSS articles into notes.",
 	"author": "Monnierant",
